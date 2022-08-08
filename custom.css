@@ -17,9 +17,9 @@
 }
 
 .productView-info-value--sku {
-    font-weight: bold;
-    color: stencilColor("color-primary");
-    font-size: $fontSize-small;
+    font-weight: bold !important;
+    color: stencilColor("color-primary") !important;
+    font-size: $fontSize-small !important;
 }
 
 .productView-price {
