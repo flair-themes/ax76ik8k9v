@@ -1,6 +1,6 @@
 .card-text--sku {
     font-weight: bold;
-    color: stencilColor("color-primary");
+    color: $price-primary-color !important;
 }
 
 .card-title {
@@ -9,7 +9,7 @@
 
 .price-primary {
     font-size: unset;
-    color: stencilColor("color-textHeading");
+    color: $header-font-color !important;
 }
 
 .price-primary+abbr {
