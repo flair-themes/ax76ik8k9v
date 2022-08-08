@@ -30,3 +30,9 @@
 .productView-rating {
     order: 4 !important;
 }
+
+.card {
+    .button {
+        height: auto;
+    }
+}
