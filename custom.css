@@ -1,39 +1,32 @@
 .card-text--sku {
-    font-weight: bold;
-    color: $price-primary-color !important;
+    font-weight: bold !important;
+    color: #D14343 !important;
 }
 
 .card-title {
-    font-size: fontSize("larger");
+    font-size: 20px !important;
 }
 
 .price-primary {
-    font-size: unset;
-    color: $header-font-color !important;
+    font-size: 20px !important;
+    color: #333333 !important;
 }
 
 .price-primary+abbr {
-    color: stencilColor("color-textHeading");
+    color: #333333 !important;
 }
 
 .productView-info-name--sku {
     font-weight: bold !important;
-    color: stencilColor("color-primary") !important;
-    font-size: $fontSize-small !important;
-}
-
-.productView-price {
-    .price-primary {
-        font-size: $fontSize-small;
-        color: stencilColor("color-textHeading");
-    }
+    color: #D14343 !important;
+    font-size: 20px !important;
 }
 
 .productView-product {
-    display: flex;
-    flex-direction: column;
+    display: flex !important;
+    flex-direction: column !important;
 }
 
 .productView-rating {
-    order: 4;
+    order: 4 !important;
 }
