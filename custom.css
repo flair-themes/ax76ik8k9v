@@ -16,7 +16,7 @@
     color: stencilColor("color-textHeading");
 }
 
-.productView-info-value--sku {
+.productView-info-name--sku {
     font-weight: bold !important;
     color: stencilColor("color-primary") !important;
     font-size: $fontSize-small !important;
