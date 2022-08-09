@@ -38,5 +38,5 @@
 }
 
 .button--compare {
-    height: auto;
+    height: auto !important;
 }
