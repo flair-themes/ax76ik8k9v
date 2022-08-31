@@ -8,8 +8,12 @@
 }
 
 .price-primary {
-    font-size: 20px !important;
+    font-size: 13px !important;
     color: #333333 !important;
+}
+
+.price-section--primary {
+    font-weight: normal !important;
 }
 
 .price-primary+abbr {
