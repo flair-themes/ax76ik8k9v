@@ -8,7 +8,6 @@
 }
 
 .price-primary {
-    font-size: 13px !important;
     color: #333333 !important;
 }
 
@@ -43,4 +42,44 @@
 
 .button--compare {
     height: auto !important;
+}
+
+h6 {
+    font-size: 14px !important;
+}
+
+h5 {
+    font-size: 17px !important;
+}
+
+.card-section {
+    font-size: 13px !important;
+}
+
+.productView-price {
+    font-size: 17px !important;
+}
+
+.footer-info-list {
+    display: flex !important;
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+}
+
+@media (min-width: 551px) {
+    .footer-info-list {
+        height: 300px!important;
+    }
+}
+
+.footer-info-col--small {
+    flex-grow: 1 !important;
+}
+
+.page .page-heading {
+        display: none !important;
+}
+
+.breadcrumbs {
+    display: none !important;
 }
