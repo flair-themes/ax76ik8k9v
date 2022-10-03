@@ -92,3 +92,281 @@ h5 {
     flex-grow: 1 !important;
     width: 16.66667% !important;
 }
+
+.footer-info-list {
+    a {
+        font-size: 17px !important;
+    }
+}
+
+@media (min-width: 801px) {
+    .footer-info-list {
+        a {
+            font-size: 1rem !important;
+        }
+    }
+}
+
+.store-credit__amount {
+    font-size: 17px !important;
+}
+
+.heroCarousel-description {
+    font-size: 17px !important;
+}
+
+.navPages-action {
+    font-size: 17px !important;
+}
+
+.productView-brand {
+    font-size: 17px !important;
+}
+
+.productView-pipe {
+    font-size: 17px !important;
+}
+
+.productView__stock {
+    font-size: 17px !important;
+}
+
+.productView-description {
+    p {
+        strong {
+            font-size: 17px !important;
+        }
+    }
+}
+
+.productReview-title {
+    font-size: 17px !important;
+}
+
+.form-input--incrementTotal {
+    font-size: 17px !important;
+}
+
+.account-product-body {
+    .definitionList {
+        font-size: 17px !important;
+    }
+}
+
+.account-product-subtitle {
+    font-size: 17px !important;
+}
+
+.account-product-price {
+    font-size: 17px !important;
+}
+
+.account-orderTotal {
+    font-size: 17px !important;
+}
+
+.account-sidebar-block {
+    font-size: 17px !important;
+}
+
+.account-downloads-summary {
+    font-size: 17px !important;
+}
+
+.account-downloadsItem-title {
+    font-size: 17px !important;
+}
+
+.address-details--postal {
+    font-size: 17px !important;
+}
+
+.table-thead {
+    th {
+        font-size: 17px !important;
+    }
+}
+
+.return-itemName {
+    font-size: 17px !important;
+}
+
+.cart-item-name {
+    font-size: 17px !important;
+}
+
+.compareTable-heading {
+    font-size: 17px !important;
+}
+
+.navPages-action {
+    font-size: 17px !important;
+}
+
+.paymentMethod-expiry {
+    font-size: 17px !important;
+}
+
+.paymentMethodForm-details-description {
+    font-size: 17px !important;
+}
+
+.productView-brand {
+    font-size: 17px !important;
+}
+
+.productView-price {
+    .price-section--saving {
+        font-size: 17px !important;
+    }
+}
+
+.category-suggestion {
+    font-size: 17px !important;
+}
+
+.price-primary--priceRange {
+    font-size: 17px !important;
+}
+
+.card-stock {
+    font-size: 17px !important;
+}
+
+.footer-info-heading {
+    font-size: 17px !important;
+}
+
+@media (min-width: 801px) {
+    .globalBanner-label {
+        font-size: 17px !important;
+    }
+}
+
+@media (min-width: 801px) {
+    .productView-price {
+        font-size: 17px !important;
+    }
+}
+
+.blog-post {
+    font-size: 17px !important;
+}
+
+@media (min-width: 801px) {
+    .listItem-brand {
+        font-size: 17px !important;
+    }
+}
+
+.category__title-count {
+    font-size: 14px !important;
+}
+
+.navList-action {
+    font-size: 14px !important;
+}
+
+.productCount {
+    font-size: 14px !important;
+}
+
+.quickSearchResults {
+    
+    .price-section--label {
+        font-size: 14px !important;
+    }
+
+    .price-primary {
+        font-size: 14px !important;
+    }
+}
+
+.productCount__show {
+    font-size: 14px !important;
+}
+
+.productCount__show,
+.productCount__item {
+    font-size: 14px !important;
+}
+
+.productReview-author {
+    font-size: 14px !important;
+}
+
+.card-info {
+    .card-stock,
+    .card-text {
+        font-size: 14px !important;
+    }
+
+    .card-title {
+        font-size: 14px !important;
+    }
+}
+
+.quickSearchMessage {
+    font-size: 14px !important;
+}
+
+.form-label--alternate {
+    font-size: 14px !important;
+}
+
+.form-fileDescription {
+    font-size: 14px !important;
+}
+
+.previewCartItem-brand,
+.previewCartItem-price {
+    font-size: 14px !important;
+}
+
+@media (min-width: 551px) {
+    .heroCarousel-description {
+        font-size: 14px !important;
+    }
+}
+
+.paymentMethod-label,
+.paymentMethod-description {
+    font-size: 14px !important;
+}
+
+@media (min-width: 551px) {
+    .productView-info-name {
+        font-size: 14px !important;
+    }
+}
+
+.productView-options {
+
+    input[type="file"] {
+        font-size: 14px !important;
+    }
+}
+
+.toggleLink-text {
+    font-size: 14px !important;
+}
+
+@media (min-width: 551px) {
+    .card-text--brand {
+        font-size: 14px !important;
+    }
+}
+
+@media (min-width: 551px) {
+    .card-text--sku {
+        font-size: 14px !important;
+    }
+}
+
+.cookieMessage-text p {
+    font-size: 14px !important;
+}
+
+.globalBanner-label {
+    font-size: 14px !important;
+}
