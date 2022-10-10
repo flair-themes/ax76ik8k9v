@@ -90,7 +90,19 @@ h5 {
 
 .footer-info-col--subscription {
     flex-grow: 1 !important;
-    width: 16.66667% !important;
+    text-align: center !important;
+}
+
+@media (min-width: 551px) {
+    .footer-info-col--subscription {
+        text-align: left;
+    }
+}
+
+@media (min-width: 801px) {
+    .footer-info-col--subscription {
+        width: 16.66667% !important;
+    }
 }
 
 .footer-info-list {
@@ -332,12 +344,6 @@ h5 {
 .paymentMethod-label,
 .paymentMethod-description {
     font-size: 14px !important;
-}
-
-@media (min-width: 551px) {
-    .productView-info-name {
-        font-size: 14px !important;
-    }
 }
 
 .productView-options {
